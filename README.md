@@ -9,10 +9,9 @@
    6.	LED
    7.	Buzzer
    8.	3.7V Lithium Battery
- ### Video:-
- 
-
-### Project Photo:
+### Project Video:-
+https://github.com/mrshakil015/Railway-Track-Crack-Detection-IoT-Project/assets/98937877/ccfde562-3fb5-4aaa-9a33-f71a2ca6f35b
+### Project Prototype:
 ![picture](https://github.com/mrshakil015/Railway-Track-Crak-Detection/assets/98937877/ecd7cc0e-60dc-4c47-a53f-3a3bacbac016)
 ### Project Block Diagram:
 ![Block Diagram](https://github.com/mrshakil015/Railway-Track-Crak-Detection/assets/98937877/cb5efbcd-601d-4d9f-a9f9-2c70909e02c0)
